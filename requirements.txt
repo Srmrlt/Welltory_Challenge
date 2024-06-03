@@ -1,4 +1,5 @@
 SQLAlchemy
 psycopg2-binary
+alembic
 pydantic-settings
 pydantic
